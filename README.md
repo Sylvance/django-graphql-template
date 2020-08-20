@@ -1,2 +1,2 @@
-# django-graphql-template
-Django + Graphql template
+# django-graphql-react-template
+Django + Graphql + React template
