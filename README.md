@@ -8,6 +8,10 @@ Install python packages
 Install node packages
 - `npm install `
 
+## Running migrations
+For the backend first run the migrations command;
+- `python manage.py migrate`
+
 ## Running application
 Run backend server: live at `http://localhost:8000/graphql/`;
 - `python manage.py runserver `
